@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1070362194517-mqh5r82mkr8mt0olid6itcnf2lk375ii.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1070362194517-mqh5r82mkr8mt0olid6itcnf2lk375ii</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDuot_OI9psXdpB5TH3XxPmyuALc0-7E6s</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1070362194517</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.pepcornsApp</string>
+	<key>PROJECT_ID</key>
+	<string>pepcorns-app</string>
+	<key>STORAGE_BUCKET</key>
+	<string>pepcorns-app.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1070362194517:ios:e3a086fbd6c6dc25d85adc</string>
+</dict>
+</plist>
